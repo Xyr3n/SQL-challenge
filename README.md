@@ -8,7 +8,7 @@ This repository contains SQL queries for retrieving information from an employee
 
 ## Files
 
-### `employeeSQL`
+### `EmployeeSQL`
 - This file contains an image of the ERD, Table schema,SQL queries
 
 ### `data`
