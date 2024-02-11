@@ -11,7 +11,7 @@ This repository contains SQL queries for retrieving information from an employee
 ### `employeeSQL`
 - This file contains an image of the ERD, Table schema,SQL queries
 
-### 'data/` Folder
+### `data/`Folder
 - This folder contains CSV files that provide sample data.
 
 ## Support
